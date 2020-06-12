@@ -1,5 +1,6 @@
 body{
-  background-color: #1cbb9b;
+  background: linear-gradient(to left, #fc6076, #ff9a44);
+         
 }
 .login-box{
   position:relative;
